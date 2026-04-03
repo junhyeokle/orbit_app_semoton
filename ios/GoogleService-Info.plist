@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1087917407833-4fn31cbvgfq3qa984fchhdn3b76v732t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1087917407833-4fn31cbvgfq3qa984fchhdn3b76v732t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1087917407833-ivm7smikrtmn7c38b559u00kbvc1p1qp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBE7k5ppeivX7IVxjqbgobeoiJvbbCoIOQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1087917407833</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jun090833.orbit</string>
+	<key>PROJECT_ID</key>
+	<string>khu-semotone-backend</string>
+	<key>STORAGE_BUCKET</key>
+	<string>khu-semotone-backend.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1087917407833:ios:4ace35ac0e525a57ebfb48</string>
+</dict>
+</plist>
