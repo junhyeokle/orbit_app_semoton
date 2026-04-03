@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087917407833",
+    "project_id": "khu-semotone-backend",
+    "storage_bucket": "khu-semotone-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087917407833:android:798413e910242a38ebfb48",
+        "android_client_info": {
+          "package_name": "com.example.orbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087917407833-jv2uila4kr96ea508g6f7tg5vj405r02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orbit",
+            "certificate_hash": "fc3ae7688a3e6d74c85856dab99fc65d256eff7d"
+          }
+        },
+        {
+          "client_id": "1087917407833-r8818o29voeqcqeho2pl4qgldt6iho7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzuNcovmWi_zg6y2lIlww0flmh5thb9qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087917407833-r8818o29voeqcqeho2pl4qgldt6iho7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
