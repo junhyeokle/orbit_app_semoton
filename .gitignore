@@ -33,7 +33,16 @@ migrate_working_dir/
 /build/
 /coverage/
 
-# Symbolication related
+# Symbolication related# Firebase 설정 (API 키 포함)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+ios/GoogleService-Info.plist
+
+# 로컬 개발 환경
+android/local.properties
+
+# 빌드 산출물
+build/
 app.*.symbols
 
 # Obfuscation related
@@ -43,3 +52,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
