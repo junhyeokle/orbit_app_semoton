@@ -1,17 +1,52 @@
-# orbit
+# ORBIT 🚀
 
-A new Flutter project.
+ORBIT은 위치 기반으로 사용자 간 요청을 연결해주는 커뮤니티 플랫폼입니다.
 
-## Getting Started
+사용자는 주변에서 필요한 도움(배달, 대여, 간단한 요청 등)을 게시물 형태로 올릴 수 있고,  
+다른 사용자는 이를 확인하고 수락하여 수행한 뒤 보상을 받는 구조입니다.
 
-This project is a starting point for a Flutter application.
+이 앱은 단순 커뮤니티를 넘어  
+**위치 + 실시간 매칭 + 채팅 + AI 분석**을 결합한 서비스입니다.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 💡 핵심 컨셉
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- “근처 사람에게 빠르게 도움을 요청하고 해결한다”
+- 오프라인 기반 문제를 온라인 매칭으로 해결
+- 즉시성 + 실용성 중심 서비스
+
+---
+
+## ⚡ 주요 특징
+
+### 📍 위치 기반 서비스
+- 사용자 위치 기반으로 주변 요청 확인
+- 지도에서 건물 단위로 게시물 탐색
+
+### 🤝 실시간 매칭
+- 요청 수락 시 즉시 매칭
+- 수행자와 요청자 연결
+
+### 💬 채팅 시스템
+- 매칭된 사용자 간 실시간 채팅
+- 요청 수행 과정 커뮤니케이션
+
+### 💰 보상 시스템
+- 요청 완료 시 포인트 지급
+- 간단한 경제 구조 형성
+
+### 🤖 AI 분석 기능
+- 게시물 내용을 분석하여
+  - 요청 유형 (배달 / 대여 등)
+  - 목적지
+  - 긴급도
+  자동 추출
+
+---
+
+## 🎯 목표
+
+- 대학 캠퍼스 및 특정 지역 기반에서 빠른 문제 해결
+- 소규모 지역 커뮤니티 활성화
+- 실생활 밀착형 서비스 제공
